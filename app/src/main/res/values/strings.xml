@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sonic Explorer</string>
+    <string name="frequency_image_desc">Frequency visualization image</string>
+</resources>
